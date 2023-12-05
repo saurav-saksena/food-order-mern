@@ -124,7 +124,7 @@ router.put(
     try {
       let data = await User.findById(req.params.id);
       if (!data) {
-        return res.status(404).send({ msg: "note not found" });
+        return res.status(404).send({ msg: "user not found" });
       }
       if (data.id !== req.user.id) {
         return res.status(401).send({ msg: "not allowed !!!" });
