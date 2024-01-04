@@ -1,5 +1,35 @@
 # A Food order application with Mern Stack Technology
 
+![image](img/food1.png)
+
+### A user have different category of foods to chose
+
+![image](img/food2.png)
+
+### then user can add a food item in add to cart dynamically
+
+![image](img/food3.png)
+
+### user then visit to addtoCart page
+
+![image](img/food4.png)
+
+### now user can see all details of food and can place order
+
+![image](img/food5.png)
+
+### after placed the order application navigates to confirmation page !
+
+![image](img/food6.png)
+
+### after than user can navigate to myorder page to see the details of placed order
+
+![image](img/food7.png)
+
+### view of profile page
+
+![image](img/food8.png)
+
 This is a mern-stack food order/delivery application based on following technogogy
 
 1. React Js
@@ -8,18 +38,20 @@ This is a mern-stack food order/delivery application based on following technogo
 4. Mongodb
 5. Mongoose
 
-# Description
+## Description
 
 In the project a user has to make an account by sign up and the a user can visit all the pages and see the types of food available on application and then
 they can add to cart a food by their choice and place a order.
 After that a user can see their order history.
 
-# Features
+## Features
 
 1. sign up / login
 2. profile update
 3. security with json web token
 4. Password hash with bcrypt
+
+#### developer: _Kumar Saurav Saksena_
 
 # About React application
 
